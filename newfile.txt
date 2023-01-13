@@ -1,5 +1,3 @@
-this is first file
-<<<<<<< HEAD
-and the third
-=======
-helllo rajesh
+Apple
+Bat
+Cat
