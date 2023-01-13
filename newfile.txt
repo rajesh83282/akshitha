@@ -2,6 +2,6 @@ this is first file
 <<<<<<< HEAD
 and the third
 =======
-helllo cdvhddhefhfjkfhheh
+helllo 
 and the second change
 >>>>>>> a5dfd1f523f377f0924243d6236bbded4a759fac
